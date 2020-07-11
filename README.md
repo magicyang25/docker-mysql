@@ -12,7 +12,7 @@
 ```bash
 # to start
 
-$ auto/run-5-7
+$ auto/start-5-7
 # to stop
-$ auto/down-5-7
+$ auto/stop-5-7
 ```
